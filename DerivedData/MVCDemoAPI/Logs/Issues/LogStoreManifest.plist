@@ -118,6 +118,34 @@
 			<key>uniqueIdentifier</key>
 			<string>7F950D9E-9BD3-4C91-87CA-946151EE7804</string>
 		</dict>
+		<key>80B2B435-B77C-4AA9-8462-0FC40ED59662</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>80B2B435-B77C-4AA9-8462-0FC40ED59662.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>MVCDemoAPI-cztrrrqrqaputbfqpoyixhntvcju</string>
+			<key>timeStartedRecording</key>
+			<real>615368022.44792902</real>
+			<key>timeStoppedRecording</key>
+			<real>615368024.84893298</real>
+			<key>title</key>
+			<string>Build target MVCDemoAPI</string>
+			<key>uniqueIdentifier</key>
+			<string>80B2B435-B77C-4AA9-8462-0FC40ED59662</string>
+		</dict>
 		<key>B7FC0A2F-D2E3-45B3-99DA-AD9816E72452</key>
 		<dict>
 			<key>className</key>
@@ -145,34 +173,6 @@
 			<string>Build target Moya</string>
 			<key>uniqueIdentifier</key>
 			<string>B7FC0A2F-D2E3-45B3-99DA-AD9816E72452</string>
-		</dict>
-		<key>C48C4722-85D1-4123-B56F-C6A958B901A3</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogMajorGroupSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
-			<key>fileName</key>
-			<string>C48C4722-85D1-4123-B56F-C6A958B901A3.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>signature</key>
-			<string>MVCDemoAPI-cztrrrqrqaputbfqpoyixhntvcju</string>
-			<key>timeStartedRecording</key>
-			<real>615363503.20752501</real>
-			<key>timeStoppedRecording</key>
-			<real>615363504.85500598</real>
-			<key>title</key>
-			<string>Build target MVCDemoAPI</string>
-			<key>uniqueIdentifier</key>
-			<string>C48C4722-85D1-4123-B56F-C6A958B901A3</string>
 		</dict>
 		<key>DDC80767-4D4C-4502-BA44-5598C1B26B17</key>
 		<dict>
