@@ -23,7 +23,7 @@ class AllEmployeeViewController: BaseViewController {
     
     override func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(true)
-        self.employeeList()
+        self.getEmployeeList()
     }
     
     // MARK: - Helper Methods -
@@ -42,7 +42,7 @@ class AllEmployeeViewController: BaseViewController {
     // MARK: - UIButton Action Methods -
     
     // MARK: - API Calling -
-    func employeeList() {
+    func getEmployeeList() {
         self.showHUDProcessView()
         self.empRepoObject.getAllEmployee { (status, response, message) in
             self.hideHUDProcessView()
