@@ -1,0 +1,23 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "a6cc27ba1be7a9e66956fc2c22b8f95d"
+build_time: [1593670703, 212047000]
+inputs:
+  "/Users/JenishMistry/DEMOS/MVCDemoAPI/MVCDemoAPI/Code/Application/Employee/Model/EmployeeByIdResponse.swift": [1585127034, 454398765]
+  "/Users/JenishMistry/DEMOS/MVCDemoAPI/MVCDemoAPI/Code/AppDelegate.swift": [1593613507, 961523856]
+  "/Users/JenishMistry/DEMOS/MVCDemoAPI/MVCDemoAPI/Code/Utility/DeviceUtils.swift": [1593608685, 377229899]
+  "/Users/JenishMistry/DEMOS/MVCDemoAPI/MVCDemoAPI/Code/Application/Employee/Controller/AllEmployeeViewController.swift": [1593670703, 128649906]
+  "/Users/JenishMistry/DEMOS/MVCDemoAPI/MVCDemoAPI/Code/BaseViewController.swift": [1593608634, 766633439]
+  "/Users/JenishMistry/DEMOS/MVCDemoAPI/MVCDemoAPI/Code/Application/Employee/Controller/EmployeeDetailViewController.swift": [1593623264, 582750331]
+  "/Users/JenishMistry/DEMOS/MVCDemoAPI/MVCDemoAPI/Code/Constants/APIEndpointsConstants.swift": [1593670537, 57086465]
+  "/Users/JenishMistry/DEMOS/MVCDemoAPI/MVCDemoAPI/Code/Application/Employee/Model/EmployeeResponse.swift": [1585043070, 386094714]
+  "/Users/JenishMistry/DEMOS/MVCDemoAPI/MVCDemoAPI/Code/Extensions/UIView+Extension.swift": [1585043584, 210255587]
+  "/Users/JenishMistry/DEMOS/MVCDemoAPI/MVCDemoAPI/Code/Application/Employee/Repository/EmployeeAPI.swift": [1593670537, 49491825]
+  "/Users/JenishMistry/DEMOS/MVCDemoAPI/MVCDemoAPI/Code/Application/Employee/View/EmplpyeeTableCell.swift": [1593613287, 662101956]
+  "/Users/JenishMistry/DEMOS/MVCDemoAPI/MVCDemoAPI/Code/Constants/APIConstant.swift": [1593609277, 710048440]
+  "/Users/JenishMistry/DEMOS/MVCDemoAPI/MVCDemoAPI/Code/Extensions/UIViewController + Extension.swift": [1585120804, 646977875]
+  "/Users/JenishMistry/DEMOS/MVCDemoAPI/MVCDemoAPI/Code/Application/Employee/Repository/EmployeeRepository.swift": [1593613211, 727560616]
+  "/Users/JenishMistry/DEMOS/MVCDemoAPI/MVCDemoAPI/Code/Network/Reachability.swift": [1593611193, 573193992]
+  "/Users/JenishMistry/DEMOS/MVCDemoAPI/MVCDemoAPI/Code/ViewController.swift": [1593622091, 102637123]
+  "/Users/JenishMistry/DEMOS/MVCDemoAPI/MVCDemoAPI/Code/Network/WebService.swift": [1593611193, 562593745]
+  "/Users/JenishMistry/DEMOS/MVCDemoAPI/MVCDemoAPI/Code/Constants/StoryboardIDConstant.swift": [1593622811, 227856462]
+  "/Users/JenishMistry/DEMOS/MVCDemoAPI/MVCDemoAPI/Code/Network/RefreshableMoyaProvider.swift": [1593611193, 568004440]

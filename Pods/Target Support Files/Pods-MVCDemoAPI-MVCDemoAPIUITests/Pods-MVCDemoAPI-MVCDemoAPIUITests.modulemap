@@ -1,0 +1,6 @@
+framework module Pods_MVCDemoAPI_MVCDemoAPIUITests {
+  umbrella header "Pods-MVCDemoAPI-MVCDemoAPIUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

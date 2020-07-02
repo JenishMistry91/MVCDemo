@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>95A99758-DACA-403E-BF67-ED8C5472900B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>95A99758-DACA-403E-BF67-ED8C5472900B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MVCDemoAPI project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MVCDemoAPI</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MVCDemoAPI</string>
+			<key>timeStartedRecording</key>
+			<real>615362968.02226198</real>
+			<key>timeStoppedRecording</key>
+			<real>615362968.17374206</real>
+			<key>title</key>
+			<string>Build MVCDemoAPI</string>
+			<key>uniqueIdentifier</key>
+			<string>95A99758-DACA-403E-BF67-ED8C5472900B</string>
+		</dict>
+		<key>9CA15AB4-B770-445E-9D1D-472D0611257B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9CA15AB4-B770-445E-9D1D-472D0611257B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MVCDemoAPI project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MVCDemoAPI</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MVCDemoAPI</string>
+			<key>timeStartedRecording</key>
+			<real>615363503.13581395</real>
+			<key>timeStoppedRecording</key>
+			<real>615363504.867782</real>
+			<key>title</key>
+			<string>Build MVCDemoAPI</string>
+			<key>uniqueIdentifier</key>
+			<string>9CA15AB4-B770-445E-9D1D-472D0611257B</string>
+		</dict>
+		<key>A96C9D51-6FDD-4463-8783-182CD0C679C2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A96C9D51-6FDD-4463-8783-182CD0C679C2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MVCDemoAPI project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MVCDemoAPI</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MVCDemoAPI</string>
+			<key>timeStartedRecording</key>
+			<real>615363337.06180894</real>
+			<key>timeStoppedRecording</key>
+			<real>615363339.69397497</real>
+			<key>title</key>
+			<string>Build MVCDemoAPI</string>
+			<key>uniqueIdentifier</key>
+			<string>A96C9D51-6FDD-4463-8783-182CD0C679C2</string>
+		</dict>
+		<key>DA6F9868-3D3D-4CE8-8AA4-1EADF1FB1C3A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DA6F9868-3D3D-4CE8-8AA4-1EADF1FB1C3A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MVCDemoAPI project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MVCDemoAPI</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MVCDemoAPI</string>
+			<key>timeStartedRecording</key>
+			<real>615363457.901353</real>
+			<key>timeStoppedRecording</key>
+			<real>615363460.01938498</real>
+			<key>title</key>
+			<string>Build MVCDemoAPI</string>
+			<key>uniqueIdentifier</key>
+			<string>DA6F9868-3D3D-4CE8-8AA4-1EADF1FB1C3A</string>
+		</dict>
+		<key>FCFF6E71-3442-4B71-B3F5-568B1296BA02</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FCFF6E71-3442-4B71-B3F5-568B1296BA02.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MVCDemoAPI project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MVCDemoAPI</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MVCDemoAPI</string>
+			<key>timeStartedRecording</key>
+			<real>615316654.44811296</real>
+			<key>timeStoppedRecording</key>
+			<real>615316656.29044795</real>
+			<key>title</key>
+			<string>Build MVCDemoAPI</string>
+			<key>uniqueIdentifier</key>
+			<string>FCFF6E71-3442-4B71-B3F5-568B1296BA02</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

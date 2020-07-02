@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>573F3A5F-8477-46AC-933D-40595A8E4032</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>573F3A5F-8477-46AC-933D-40595A8E4032.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MVCDemoAPI project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MVCDemoAPI</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug MVCDemoAPI</string>
+			<key>timeStartedRecording</key>
+			<real>615363460.02190197</real>
+			<key>timeStoppedRecording</key>
+			<real>615363502.50388205</real>
+			<key>title</key>
+			<string>Debug MVCDemoAPI</string>
+			<key>uniqueIdentifier</key>
+			<string>573F3A5F-8477-46AC-933D-40595A8E4032</string>
+		</dict>
+		<key>72578A59-6A63-45A9-8ACB-CB3362CD07A7</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>72578A59-6A63-45A9-8ACB-CB3362CD07A7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MVCDemoAPI project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MVCDemoAPI</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug MVCDemoAPI</string>
+			<key>timeStartedRecording</key>
+			<real>615363339.69665098</real>
+			<key>timeStoppedRecording</key>
+			<real>615363455.932284</real>
+			<key>title</key>
+			<string>Debug MVCDemoAPI</string>
+			<key>uniqueIdentifier</key>
+			<string>72578A59-6A63-45A9-8ACB-CB3362CD07A7</string>
+		</dict>
+		<key>AFE61DD8-3813-446C-9A4E-77D838D56034</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>AFE61DD8-3813-446C-9A4E-77D838D56034.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MVCDemoAPI project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MVCDemoAPI</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug MVCDemoAPI</string>
+			<key>timeStartedRecording</key>
+			<real>615316656.29287398</real>
+			<key>timeStoppedRecording</key>
+			<real>615316669.96047497</real>
+			<key>title</key>
+			<string>Debug MVCDemoAPI</string>
+			<key>uniqueIdentifier</key>
+			<string>AFE61DD8-3813-446C-9A4E-77D838D56034</string>
+		</dict>
+		<key>D0ECE89F-73F0-4E9C-9F3A-616C6F9AA29D</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>D0ECE89F-73F0-4E9C-9F3A-616C6F9AA29D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MVCDemoAPI project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MVCDemoAPI</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug MVCDemoAPI</string>
+			<key>timeStartedRecording</key>
+			<real>615363504.87021697</real>
+			<key>timeStoppedRecording</key>
+			<real>615363533.34936702</real>
+			<key>title</key>
+			<string>Debug MVCDemoAPI</string>
+			<key>uniqueIdentifier</key>
+			<string>D0ECE89F-73F0-4E9C-9F3A-616C6F9AA29D</string>
+		</dict>
+		<key>E5D7DCD3-CD12-4517-A7C5-63D713AA456B</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>E5D7DCD3-CD12-4517-A7C5-63D713AA456B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MVCDemoAPI project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MVCDemoAPI</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug MVCDemoAPI</string>
+			<key>timeStartedRecording</key>
+			<real>615362968.18343198</real>
+			<key>timeStoppedRecording</key>
+			<real>615363336.56359994</real>
+			<key>title</key>
+			<string>Debug MVCDemoAPI</string>
+			<key>uniqueIdentifier</key>
+			<string>E5D7DCD3-CD12-4517-A7C5-63D713AA456B</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

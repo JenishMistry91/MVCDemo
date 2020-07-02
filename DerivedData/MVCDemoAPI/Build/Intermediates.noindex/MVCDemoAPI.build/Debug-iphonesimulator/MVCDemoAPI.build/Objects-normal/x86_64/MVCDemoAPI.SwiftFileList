@@ -1,0 +1,19 @@
+/Users/JenishMistry/DEMOS/MVCDemoAPI/MVCDemoAPI/Code/Application/Employee/Model/EmployeeByIdResponse.swift
+/Users/JenishMistry/DEMOS/MVCDemoAPI/MVCDemoAPI/Code/AppDelegate.swift
+/Users/JenishMistry/DEMOS/MVCDemoAPI/MVCDemoAPI/Code/Utility/DeviceUtils.swift
+/Users/JenishMistry/DEMOS/MVCDemoAPI/MVCDemoAPI/Code/Application/Employee/Controller/AllEmployeeViewController.swift
+/Users/JenishMistry/DEMOS/MVCDemoAPI/MVCDemoAPI/Code/BaseViewController.swift
+/Users/JenishMistry/DEMOS/MVCDemoAPI/MVCDemoAPI/Code/Application/Employee/Controller/EmployeeDetailViewController.swift
+/Users/JenishMistry/DEMOS/MVCDemoAPI/MVCDemoAPI/Code/Constants/APIEndpointsConstants.swift
+/Users/JenishMistry/DEMOS/MVCDemoAPI/MVCDemoAPI/Code/Application/Employee/Model/EmployeeResponse.swift
+/Users/JenishMistry/DEMOS/MVCDemoAPI/MVCDemoAPI/Code/Extensions/UIView+Extension.swift
+/Users/JenishMistry/DEMOS/MVCDemoAPI/MVCDemoAPI/Code/Application/Employee/Repository/EmployeeAPI.swift
+/Users/JenishMistry/DEMOS/MVCDemoAPI/MVCDemoAPI/Code/Application/Employee/View/EmplpyeeTableCell.swift
+/Users/JenishMistry/DEMOS/MVCDemoAPI/MVCDemoAPI/Code/Constants/APIConstant.swift
+/Users/JenishMistry/DEMOS/MVCDemoAPI/MVCDemoAPI/Code/Extensions/UIViewController\ +\ Extension.swift
+/Users/JenishMistry/DEMOS/MVCDemoAPI/MVCDemoAPI/Code/Application/Employee/Repository/EmployeeRepository.swift
+/Users/JenishMistry/DEMOS/MVCDemoAPI/MVCDemoAPI/Code/Network/Reachability.swift
+/Users/JenishMistry/DEMOS/MVCDemoAPI/MVCDemoAPI/Code/ViewController.swift
+/Users/JenishMistry/DEMOS/MVCDemoAPI/MVCDemoAPI/Code/Network/WebService.swift
+/Users/JenishMistry/DEMOS/MVCDemoAPI/MVCDemoAPI/Code/Constants/StoryboardIDConstant.swift
+/Users/JenishMistry/DEMOS/MVCDemoAPI/MVCDemoAPI/Code/Network/RefreshableMoyaProvider.swift
